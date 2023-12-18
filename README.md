@@ -19,4 +19,4 @@ Use the menu in the top right corner to change rooms or log out.
 
 # GIF
 
-<img src="/chat.gif"/>
+<img src="./public/chat.gif"/>
